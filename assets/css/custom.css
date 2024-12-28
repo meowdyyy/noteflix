@@ -1,0 +1,36 @@
+body{
+    background-color: #F5F9F9;
+    /* background-size: cover; */
+}
+
+.login{
+    width:100vw;
+    height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
+
+.btn-primary{
+    background-color: #f48b76;
+    /*border-color: #f2c09d;*/
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color:#4B4439;
+  }
+  
+.clklink{
+    color: #f48b76;
+}
+
+.clklink:hover {
+    color: #4B4439;
+}
+
+.bg-primary {
+    background-color: #f48b76;
+}
