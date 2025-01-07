@@ -64,7 +64,7 @@ _Coming Soon_
 git clone https://github.com/meowdyyy/noteflix.git
 cd noteflix
 
-
+```
 2️⃣ Setup a local server (XAMPP/KSWEB)
 3️⃣ Import the database in phpMyAdmin
 4️⃣ Configure config.php with database credentials
