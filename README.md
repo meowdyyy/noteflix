@@ -2,6 +2,9 @@
 
 > 🚀 *A collaborative space for students to share, organize and engage in academic discussions seamlessly.*
 
+
+🌍 **Live Site:** [Noteflix](https://noteflix.free.nf)
+
 ---
 
 ## ✨ Features
