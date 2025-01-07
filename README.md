@@ -53,7 +53,7 @@
 ---
 
 ## Entity-Relationship (ER) Diagram  
-![ER Diagram](https://ibb.co.com/5FPbFJz)  
+![ER Diagram](https://i.imgur.com/hjBW0Te.png)  
 
 ## 🎨 Preview
 
