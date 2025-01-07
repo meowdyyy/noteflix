@@ -53,7 +53,9 @@
 ---
 
 ## Entity-Relationship (ER) Diagram  
-![ER Diagram](https://i.imgur.com/hjBW0Te.png)  
+![ER Diagram](https://i.imgur.com/hjBW0Te.png)
+## Database Schema Diagram  
+![Schema Diagram](https://i.imgur.com/95aMGD9.png)
 
 ## 🎨 Preview
 
