@@ -1,4 +1,4 @@
-# 🎓 Noteflix – Your Ultimate Study Hub
+# 🎓 Noteflix
 
 > 🚀 *A collaborative space for students to share, organize and engage in academic discussions seamlessly.*
 
@@ -65,13 +65,13 @@ git clone https://github.com/meowdyyy/noteflix.git
 cd noteflix
 
 ```
-2️⃣ Setup a local server (XAMPP/KSWEB)
-3️⃣ Import the database in phpMyAdmin
-4️⃣ Configure config.php with database credentials
-5️⃣ Start your server and access the project via localhost
+- 2️⃣ Setup a local server (XAMPP/KSWEB)
+- 3️⃣ Import the database in **phpMyAdmin**
+- 4️⃣ Configure **config.php** with database credentials
+- 5️⃣ Start your server and access the project via **localhost**
 
 
-🌟 Future Enhancements
+## 🌟 Future Enhancements
 
 🎨 Dark Mode Toggle for a better UI experience.
 
@@ -83,6 +83,6 @@ cd noteflix
 
 ---
 
-📜 License
+## 📜 License
 
 This project is open-source under the MIT License.
