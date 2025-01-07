@@ -52,6 +52,9 @@
 
 ---
 
+## Entity-Relationship (ER) Diagram  
+![ER Diagram](https://ibb.co.com/5FPbFJz)  
+
 ## 🎨 Preview
 
 _Coming Soon_
